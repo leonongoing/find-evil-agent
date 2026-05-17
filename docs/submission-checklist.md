@@ -46,18 +46,13 @@ The writeup has these sections (Devpost standard format):
 
 ## Step 4: Add GitHub Repository
 
-1. Push the project to GitHub:
-   ```bash
-   cd /home/taomi/projects/find-evil-agent
-   git init
-   git add .
-   git commit -m "FinSOC Agent — FIND EVIL! Hackathon submission"
-   git remote add origin https://github.com/YOUR_USERNAME/finsoc-agent.git
-   git push -u origin main
-   ```
+1. GitHub repo is **already live** ✅:
+   **https://github.com/leonongoing/find-evil-agent**
+   (pushed 2026-05-17, public, main branch)
+
 2. In Devpost, paste the GitHub repo URL in the **Try it out** or **Source Code** field
 
-> Make sure the repo is **public** before submitting.
+> Repo is already public. ✅
 
 ---
 
